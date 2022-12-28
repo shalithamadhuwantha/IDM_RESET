@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"MicrosoftEdgeAutoLaunch_CB1258E7D59104529E611FAB5756974E"="\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start /prefetch:5"
+"IDM DATE RESET"="C:\\IDMR\\bin\\idmSTRTUP.exe"
+
